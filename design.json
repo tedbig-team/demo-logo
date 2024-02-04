@@ -1,1 +1,14 @@
 
+{
+    "primary": "#262B6D",
+    "background": "#F8F8F8",
+    "black": "#333333",
+    "white": "#FFFFFF",
+    "grey": "#E8E8E8",
+    "blue": "#A4CAFE",
+    "hint": "#ADADAD",
+    "disabled": "#070000",
+    "warning": "#FFC60D",
+    "error": "#FF1919",
+    "success": "#2CE23C"
+}
